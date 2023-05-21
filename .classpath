@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/AnalisisDatosPython/LogicaOracle/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/AnalisisDatosPython/LogicaOracle/lib/jgoodies-common-1.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/AnalisisDatosPython/LogicaOracle/lib/jgoodies-looks-2.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/AnalisisDatosPython/LogicaOracle/lib/junit-4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-j-8.0.33.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dbedo/Downloads/c3p0-0.9.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dbedo/Downloads/mchange-commons-java-0.2.16.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
